@@ -1,6 +1,5 @@
 # RMSLE_for_CatBoost_Regressor
-The arcticle about custom RMSLE for CatBoost Regressor predictive model
-Intro
+##Intro
 Вот уже третий год подряд компания SIBUR организовывает собственные соревнования в областях Data Science, AI, и ML, предлагая для решения реальные кейсы основанные на реальных данных компании. В 2021 году соревнование Sibur Challenge 2021 собрало 161 участника. Задачей поставленной перед участниками являлось создание предикативной модели для помесячного прогнозирования объемов закупок определенного типа товаров.
 
 https://habr.com/ru/company/sibur_official/news/t/593027
